@@ -1,0 +1,7 @@
+.env
+*\node_modules
+*\build
+dist
+e2e
+.egg-info
+fsc_distributions.egg-info
